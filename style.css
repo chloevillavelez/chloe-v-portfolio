@@ -193,3 +193,22 @@ p {
   max-width: 100%;
   height: auto;
 }
+
+.chloe-jpg {
+  width: 400px;
+  height: 400px;
+  vertical-align: middle;
+}
+
+.col-lg-6 {
+  flex: 0 0 auto;
+  width: 50%;
+}
+
+.about-section-content {
+  margin: 32px;
+}
+
+.img {
+  vertical-align: middle;
+}

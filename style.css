@@ -128,10 +128,8 @@ p {
   text-transform: capitalize;
 }
 
-.contact-link {
-  background: var(--primary-color);
-  box-shadow: var(--box-shadow);
-  color: white;
+.reach-link {
+  color: var(--primary-color);
 }
 
 .about-link {
